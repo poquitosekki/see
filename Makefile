@@ -1,5 +1,5 @@
-CC=gcc
-CFLAGS=-std=c99 -Wall -pedantic -g3
+CC = gcc
+CFLAGS = -std=c99 -Wall -pedantic -g3
 
 all: hello
 
